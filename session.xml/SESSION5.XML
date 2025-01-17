@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xsl-stylesheet href="FILE.XSL" type="text/xsl"?>
+<staff>
+<emplyee>
+<id>23</id>
+<name>MUSTAFA</name>
+<salary>200000</salary>
+<department>HR</department>
+</emplyee>
+<emplyee>
+<id>25</id>
+<name>ARMAN</name>
+<salary>200000</salary>
+<department>manager</department>
+</emplyee>
+<emplyee>
+<id>20</id>
+<name>MUBASHIR</name>
+<salary>10000</salary>
+<department>incharge</department>
+</emplyee>
+</staff>
