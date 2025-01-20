@@ -1,0 +1,26 @@
+{
+    "product": "parts",
+    "brand": "kawasaki",
+    "email": "kawasakimotor.com",
+      "city": "karachi",
+      "publishercode": "12345"
+    ,
+    "body parts":[
+      {
+        "types": "bikes",
+        "engine oil":["kawasakioil"],
+        "exhaust":["exhaust"]
+      },
+      {
+        "types": "bikes",
+        "engine oil":["zic"],
+        "exhaust":["acracing"]
+      },
+      {
+        "types": "bikes",
+        "engine oil":["shell"],
+        "exhaust":["acrapovic"]
+      }
+    ]
+}
+  

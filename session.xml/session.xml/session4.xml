@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="schema.xsd">
+    <user>
+        <id>1</id>
+        <username>john_doe</username>
+        <email>john.doe@example.com</email>
+        <password_hash>$2y$10$T0dFp97M0E0q9j7JSKk3U8FjpU0YdOf7q9Pp2lPQ</password_hash>
+        <full_name>John Doe</full_name>
+        <created_at>2025-01-15T08:30:00</created_at>
+        <updated_at>2025-01-15T08:30:00</updated_at>
+        <posts>
+            <post>
+                <id>1</id>
+                <title>My First Post</title>
+                <content>This is the content of the first post.</content>
+                <created_at>2025-01-15T09:00:00</created_at>
+                <updated_at>2025-01-15T09:00:00</updated_at>
+            </post>
+            <post>
+                <id>2</id>
+                <title>Another Post</title>
+                <content>This is another post.</content>
+                <created_at>2025-01-16T10:00:00</created_at>
+                <updated_at>2025-01-16T10:00:00</updated_at>
+            </post>
+        </posts>
+    </user>
+    <user>
+        <id>2</id>
+        <username>jane_doe</username>
+        <email>jane.doe@example.com</email>
+        <password_hash>$2y$10$hFpqM1N36FzD9KHfSk8BQG59E</password_hash>
+        <full_name>Jane Doe</full_name>
+        <created_at>2025-01-16T08:00:00</created_at>
+        <updated_at>2025-01-16T08:00:00</updated_at>
+        <posts>
+            <post>
+                <id>3</id>
+                <title>Jane's First Post</title>
+                <content>This is Jane's first post content.</content>
+                <created_at>2025-01-16T08:15:00</created_at>
+                <updated_at>2025-01-16T08:15:00</updated_at>
+            </post>
+        </posts>
+    </user>
+</users>
